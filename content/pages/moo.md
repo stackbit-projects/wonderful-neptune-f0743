@@ -32,5 +32,6 @@ sections:
       type: ImageBlock
       url: /images/hero.png
       altText: Image alt text
+    subtitle: sub
 layout: PageLayout
 ---
