@@ -11,7 +11,7 @@ sections:
     topGap: none
     bottomGap: none
     variant: variant-b
-    title: Contact us
+    title: Contact us..
     text: We look forward to hearing from you.
     form:
       type: FormBlock
