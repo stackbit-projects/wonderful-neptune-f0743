@@ -1,5 +1,5 @@
 ---
-title: Example Page
+title: Example Page...
 layout: PageLayout
 sections:
   - type: ContactSection
@@ -133,7 +133,7 @@ sections:
     topGap: none
     bottomGap: small
     contentAlignVert: bottom
-    title: The quick, brown fox jumps over a lazy dog
+    title: 'The quick, brown fox jumps over a lazy dog'
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.
