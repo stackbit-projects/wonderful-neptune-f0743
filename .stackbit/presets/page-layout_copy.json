@@ -1,5 +1,5 @@
 {
-    "model": "PageLayout",
+    "model": "PostLayout",
     "presets": [{
             "label": "Landing",
             "thumbnail": "images/placeholder.png"
