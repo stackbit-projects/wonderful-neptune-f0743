@@ -10,6 +10,7 @@ featuredImage:
   altText: Post thumbnail image
 bottomSections: []
 layout: PostLayout
+author: content/data/team/person-h6myscdnm.json
 ---
 ## Lorem ipsum
 
